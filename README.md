@@ -1,2 +1,2 @@
-# Mohena
+# Cursos
 Ingeniería Estadística e Informática
